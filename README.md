@@ -10,7 +10,7 @@
 
 <h3 align="center">☆ About Me 🕸️🕷✮⋆˙</h3>
 
-<p align="center">HI HI HI ,, I'm Yunahy / Skits !! <br><br> I've been a long time Marvel fan of both medias! (Thanks irl dad LMAO)<br>- I currently write and draw for my interests! Woaaahahh<br>-W2i , but I pretty much have fun interacting hell yeahh!!<br>-#1 Nova fan from Ultimate Spider-man<br>-Avengers Assemble is awesome btw,,<br>⚠︎ THERE'S LOTS OF ANIMATED STAMPS AT THE BOTTOM. Sorry I love gifs oufff</p>
+<p align="center">SPIDER 64 !! <br><br> I've been a long time Marvel fan of both medias! (Thanks irl dad LMAO)<br>- I currently write and draw for my interests! Woaaahahh<br>-W2i , but I pretty much have fun interacting hell yeahh!!<br>-#1 Nova fan from Ultimate Spider-man<br>-Avengers Assemble is awesome btw,,<br>⚠︎ THERE'S LOTS OF ANIMATED STAMPS AT THE BOTTOM. Sorry I love gifs oufff</p>
 
 ***
 
