@@ -4,7 +4,6 @@
   <img src="https://i.pinimg.com/originals/5c/62/17/5c621759d6e4d0f66505f19fd48b0f36.gif"  />
 </div>
 
-<h1 align="center"> ⟡ YUNAHY / SKITS </h1>
 
 ###
 
