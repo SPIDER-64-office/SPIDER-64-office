@@ -13,7 +13,6 @@
    <img src="https://64.media.tumblr.com/412b263ddea7f8a5660c9a57df63ae35/926e3d5602b92745-4e/s500x750/a8b974afe6d2eedea68dff6a48c1b2274d259200.pnj" width="350">
 </div>
 
-<!-- COLORED TABLE BOX -->
 <div align="center">
   <table border="0">
     <tr>
@@ -26,6 +25,28 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align= "center">
+<img src="https://64.media.tumblr.com/15cca88e10678ac5b3c3204b5e167910/cf99704a1145c4f1-e7/s400x600/78b42ad8ecba55b802ce51aa5400e26f6cb8a4e9.pnj" width="150">
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td bgcolor="#8B0000" align="center" width="200" height="45">
+        <font size="4">
+          <a href="https://garfieldspider.straw.page/" style="color: #8B0000; text-decoration: none;">
+            <b>STRAWPAGE !</b>
+          </a>
+        </font>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+<img src="https://i.picasion.com/gl/93/mal8.gif" width="822" height="26" border="0" alt="glitter maker" /></a><br /></a>
 </div>
 
 <div align="center">
