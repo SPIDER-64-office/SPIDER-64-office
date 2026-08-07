@@ -19,7 +19,7 @@
     <tr>
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
-          <a href="YOUR_LINK_HERE" style="color: #8B0000; text-decoration: none;">
+          <a href="https://spider64.atabook.org/" style="color: #8B0000; text-decoration: none;">
             <b>SIGN ATABOOK !</b>
           </a>
         </font>
