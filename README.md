@@ -18,7 +18,7 @@
     <tr>
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
-           <b>READ MY FAN PAGE ABOUT IRON MAN !!!</b>
+           <p>READ MY FAN PAGE ABOUT IRON MAN !!!</p>
           <a href="[https://spider64.atabook.org/](https://ironmanfan64.straw.page/)" style="color: #8B0000; text-decoration: none;">
             <b>IRON MAN FAN STRAWPAGE !</b>
           </a>
