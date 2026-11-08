@@ -40,6 +40,7 @@
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
           <b>INCLUDES:</b>
+           <div align="center">
            <b> </b>
           <b> -> Media (Movie, Games, ect.) Appearances of Iron Man</b>
            <div align="center">
