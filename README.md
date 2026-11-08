@@ -41,9 +41,13 @@
         <font size="4">
           <b>INCLUDES:</b>
           <b> -> Media (Movie, Games, ect.) Appearances of Iron Man</b>
+           <div align="center">
            <b> -> My listed personal collection of Iron Man</b>
+              <div align="center">
            <b> -> Some Not-so popular facts about Iron Man, including the name of his suits!</b>
+                 <div align="center">
            <b> -> A gallery to show some sent anon works!  </b>
+                    <div align="center">
            <b> -> Much more!</b>
           </a>
         </font>
