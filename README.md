@@ -39,6 +39,12 @@
     <tr>
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
+          <b>INCLUDES:</b>
+          <b> -> Media (Movie, Games, ect.) Appearances of Iron Man</b>
+           <b> -> My listed personal collection of Iron Man</b>
+           <b> -> Some Not-so popular facts about Iron Man, including the name of his suits!</b>
+           <b> -> A gallery to show some sent anon works!  </b>
+           <b> -> Much more!</b>
           </a>
         </font>
       </td>
