@@ -18,8 +18,9 @@
     <tr>
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
-          <a href="https://spider64.atabook.org/" style="color: #8B0000; text-decoration: none;">
-            <b>SIGN ATABOOK !</b>
+           <b>READ MY FAN PAGE ABOUT IRON MAN !!!</b>
+          <a href="[https://spider64.atabook.org/](https://ironmanfan64.straw.page/)" style="color: #8B0000; text-decoration: none;">
+            <b>IRON MAN FAN STRAWPAGE !</b>
           </a>
         </font>
       </td>
@@ -36,8 +37,6 @@
     <tr>
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
-          <a href="https://garfieldspider.straw.page/" style="color: #8B0000; text-decoration: none;">
-            <b>STRAWPAGE !</b>
           </a>
         </font>
       </td>
