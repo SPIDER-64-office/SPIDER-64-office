@@ -13,14 +13,15 @@
    <img src="https://64.media.tumblr.com/412b263ddea7f8a5660c9a57df63ae35/926e3d5602b92745-4e/s500x750/a8b974afe6d2eedea68dff6a48c1b2274d259200.pnj" width="350">
 </div>
 
-   <p>READ MY FAN PAGE ABOUT IRON MAN !!!</p>
+   <div align="center">
+     <p>READ MY FAN PAGE ABOUT IRON MAN !!!</p>
 
 <div align="center">
   <table border="0">
     <tr>
       <td bgcolor="#8B0000" align="center" width="200" height="45">
         <font size="4">
-          <a href="[https://spider64.atabook.org/](https://ironmanfan64.straw.page/)" style="color: #8B0000; text-decoration: none;">
+          <a href="https://ironmanfan64.straw.page/" style="color: #8B0000; text-decoration: none;">
             <b>IRON MAN FAN STRAWPAGE !</b>
           </a>
         </font>
